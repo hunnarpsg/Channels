@@ -180,17 +180,14 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
 http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lowM5vw.jpg" group-title="Kurdistan",Kani TV
-http://185.96.163.136/kaniq/tracks-v1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NGRyjLz.jpg" group-title="Kurdistan",Dasinya HD
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Dwjkl3q.jpg" group-title="Kurdistan",Dasinya Music
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5moQPQt.jpg" group-title="Kurdistan",Dasinya Kids
-http://194.99.21.90/dasinyakis/tracks-v1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zf0pINM.jpg" group-title="Kurdistan",Dasinya Sport
-http://194.99.21.90/dasinyasport/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GnNWinL.png" group-title="Kurdistan",Niber TV
 
@@ -234,27 +231,6 @@ http://62.201.232.103:40/live/Renma/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/I2d2b0L.png" group-title="Kurdistan",Mtbamoki TV
 http://baskhd1.ddns.net:40/live/mtbamokitv/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kurdistan",Blann
-http://185.96.163.138/blann/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kurdistan",Shrust TV
-http://baskhd1.ddns.net:40/live/srusht/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kurdistan",Kshtukal TV
-http://baskhd1.ddns.net:40/live/kushtukal/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kurdistan",Soz Movies
-http://likemovies.online:1935/SOZMOVIES/Soz/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kurdistan",Like Movies
-http://likemovies.online:1935/LIKEMOVIES/LIK/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kurdistan",MMN Movies
-http://185.96.163.139/mmnmov/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kurdistan",Peshmerga
-http://86.106.181.252/peshmerga/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OdPOOGQ.png" group-title="Kurdistan",UTV 2
 http://baskhd1.ddns.net:40/live/local_Utv_2/playlist.m3u8
