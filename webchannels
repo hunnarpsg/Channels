@@ -87,10 +87,8 @@ http://194.99.21.90/asteraMOV/tracks-v1a1/mono.m3u8
 http://93.115.18.104/asteraspo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/khZAqny.png" group-title="Kurdistan",Niga
-http://93.115.18.104/nigafamilys/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HJsMVJm.png" group-title="Kurdistan",Niga Movies
-http://86.106.181.253/nigamovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Eb1bpcN.jpg" group-title="Kurdistan",Newmax HD
 https://video1.getstreamhosting.com:1936/8906/8906/playlist.m3u8
@@ -100,6 +98,9 @@ http://86.106.181.252/newmaxc/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ESM5kLM.jpg" group-title="Kurdistan",Newmax Box Office
 http://86.106.181.252/newmaxbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kurdistan",Erbil TV
+https://live.karwan.tv/karwan.tv/erbil-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OdPOOGQ.png" group-title="Kurdistan",UTV
 
