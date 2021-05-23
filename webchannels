@@ -2406,10 +2406,10 @@ https://cdn-laos.workpoint.news/uk-skysports-mainevent_720/index.m3u8
 https://cdn-laos.workpoint.news/uk-skysports-epl_720/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BnZn4cs.png" group-title="Sport",Premier Football 1
-https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
+https://y.wmsxx.com:30443/live/spstream5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDIxIDg6MDQ6MDcgUE0maGFzaF92YWx1ZT1GazEyZnV3TWJvM3pkUkUzRVhpNndnPT0mdmFsaWRtaW51dGVzPTEyMA==
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BnZn4cs.png" group-title="Sport",Premier Football 2
-https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
+https://y.wmsxx.com:30443/live/spstream5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BnZn4cs.png" group-title="Sport",Premier Football 3
 https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
