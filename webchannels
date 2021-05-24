@@ -108,6 +108,9 @@ http://liveshell.net:1935/live/cihann/chunklist_w537356874.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5vzwgqy.png" group-title="Kurdistan",Habun TV
 https://shingaliptv.ru.com/habun/tv/hd/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kurdistan",4 Kurd
+http://51.210.199.28/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0WrnE0Q.png" group-title="Kurdistan",Kurd Channel
 https://server5.ikomg.com/hls/kurd.m3u8
 
