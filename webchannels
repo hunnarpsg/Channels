@@ -55,16 +55,13 @@ http://31.14.40.139:1935/liveTrans/Pepule/playlist.m3u8
 http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ZPttV7E.png" group-title="Kurdistan",Newline
-https://aramhd.com/images/n1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qoUUZM0.png" group-title="Kurdistan",Newline 2
-https://aramhd.com/images/n2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9WnbsJY.png" group-title="Kurdistan" description="http://www.zagrosnews.net/ar",Zagros TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Bs2dbOv.png" group-title="Kurdistan",Korek TV
-http://216.66.42.23:7777/KorekTV/KorekTV_Low.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tObpXBZ.png" group-title="Kurdistan",Biaban Sport
 
@@ -72,19 +69,14 @@ http://216.66.42.23:7777/KorekTV/KorekTV_Low.m3u8
 https://live.karwan.tv/karwan.tv/kurd-show-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TQchBLO.png" group-title="Kurdistan",Reng TV
-http://185.96.163.136/reng/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Bq17H6i.png" group-title="Kurdistan",Rasan HD
-http://93.115.18.104/rasan/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PSg5TU6.png" group-title="Kurdistan",Astera
-http://185.96.163.136/asterahd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U1qBRQg.png" group-title="Kurdistan",Astera Show
-http://194.99.21.90/asteraMOV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AAL3XTh.png" group-title="Kurdistan",Astera Sport
-http://93.115.18.104/asteraspo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/khZAqny.png" group-title="Kurdistan",Niga
 
