@@ -228,14 +228,17 @@ http://62.201.232.103:40/live/Renma/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/I2d2b0L.png" group-title="Kurdistan",Mtbamoki TV
 http://baskhd1.ddns.net:40/live/mtbamokitv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OdPOOGQ.png" group-title="Kurdistan",UTV 2
-http://baskhd1.ddns.net:40/live/local_Utv_2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p7eAbYD.png" group-title="Kurdistan",Kurdistan 24
 http://95.217.114.41:8081/kurdistan24tv/kurdistan24_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w8HMc45.png" group-title="Kurdistan",Kurdsat
 https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w8HMc45.png" group-title="Kurdistan",Kurdsat
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/35.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UbHTz5I.png" group-title="Kurdistan",Kurdsat News
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/36.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PlNMNwK.png" group-title="Kurdistan",Kurdmax Music
 http://31.14.40.139:1935/music/livestream/playlist.m3u8
