@@ -71,6 +71,7 @@ https://live.karwan.tv/karwan.tv/kurd-show-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TQchBLO.png" group-title="Kurdistan",Reng TV
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Bq17H6i.png" group-title="Kurdistan",Rasan HD
+http://baskhd1.ddns.net:40/live/rasan-hd/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PSg5TU6.png" group-title="Kurdistan",Astera
 
