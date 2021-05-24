@@ -175,16 +175,6 @@ http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fak7u3Y.png" group-title="Kurdistan",Helhelok TV
 http://afarintv.flashmediacast.com:1935/afarinTV/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lowM5vw.jpg" group-title="Kurdistan",Kani TV
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NGRyjLz.jpg" group-title="Kurdistan",Dasinya HD
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Dwjkl3q.jpg" group-title="Kurdistan",Dasinya Music
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5moQPQt.jpg" group-title="Kurdistan",Dasinya Kids
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zf0pINM.jpg" group-title="Kurdistan",Dasinya Sport
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GnNWinL.png" group-title="Kurdistan",Niber TV
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XUp7pE0.png" group-title="Kurdistan",Ezidxan Media TV
@@ -232,7 +222,7 @@ http://baskhd1.ddns.net:40/live/mtbamokitv/chunklist.m3u8
 http://95.217.114.41:8081/kurdistan24tv/kurdistan24_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w8HMc45.png" group-title="Kurdistan",Kurdsat
-https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/playlist.m3u8
+https://gintna100.tulix.tv/gin_live/kurdsat/43149ffe701c310614ad3f6167fb6bc9/60ad5b92/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w8HMc45.png" group-title="Kurdistan",Kurdsat
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/35.m3u8
