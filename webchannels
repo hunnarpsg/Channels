@@ -92,7 +92,7 @@ http://86.106.181.252/newmaxc/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ESM5kLM.jpg" group-title="Kurdistan",Newmax Box Office
 http://86.106.181.252/newmaxbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kurdistan",Erbil TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pUNglAP.png" group-title="Kurdistan",Erbil TV
 https://live.karwan.tv/karwan.tv/erbil-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OdPOOGQ.png" group-title="Kurdistan",UTV
