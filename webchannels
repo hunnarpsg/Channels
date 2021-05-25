@@ -4,7 +4,7 @@
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p7eAbYD.png" group-title="Kurdistan",Kurdistan 24
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RFAfAze.png" group-title="Kurdistan",Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/smil:myStream.smil/playlist.m3u8
@@ -219,7 +219,7 @@ http://62.201.232.103:40/live/Renma/playlist.m3u8
 http://baskhd1.ddns.net:40/live/mtbamokitv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p7eAbYD.png" group-title="Kurdistan",Kurdistan 24
-http://95.217.114.41:8081/kurdistan24tv/kurdistan24_abr/playlist.m3u8
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/40.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/w8HMc45.png" group-title="Kurdistan",Kurdsat
 https://gintna100.tulix.tv/gin_live/kurdsat/43149ffe701c310614ad3f6167fb6bc9/60ad5b92/index.m3u8
