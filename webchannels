@@ -113,7 +113,7 @@ https://shingaliptv.ru.com/habun/tv/hd/index.m3u8
 http://51.210.199.28/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0WrnE0Q.png" group-title="Kurdistan",Kurd Channel
-https://server5.ikomg.com/hls/kurd.m3u8
+https://kurd-channel.ikoflix.com/hls/stream_2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0WrnE0Q.png" group-title="Kurdistan",Kurd Channel
 https://live.karwan.tv/karwan.tv/kurd-channel/playlist.m3u8
