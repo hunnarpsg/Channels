@@ -13,7 +13,7 @@ https://5a3ed7a72ed4b.streamlock.net/live/smil:myStream.smil/playlist.m3u8
 https://kurdsat.akamaized.net/hls/stream_0.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UbHTz5I.png" group-title="Kurdistan",Kurdsat News
-https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
+http://hw1.jemtv.com/app/kurdsatnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MojrqNd.png" group-title="Kurdistan",Kurdmax Sorani
 http://31.14.40.139:1935/liveTrans/myStream/chunklist_w258454534.m3u8
