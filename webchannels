@@ -61,6 +61,9 @@ http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9WnbsJY.png" group-title="Kurdistan" description="http://www.zagrosnews.net/ar",Zagros TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9WnbsJY.png" group-title="Kurdistan" description="http://www.zagrosnews.net/ar",Zagros TV
+http://hw2.jemtv.com/app/zagros/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Bs2dbOv.png" group-title="Kurdistan",Korek TV
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tObpXBZ.png" group-title="Kurdistan",Biaban Sport
