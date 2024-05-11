@@ -28,7 +28,7 @@ http://31.14.40.139:1935/liveTrans/SHOW2/playlist.m3u8
 https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PlNMNwK.png" group-title="Kurdistan",Kurdmax Music
-https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8
+https://6476e46b58f91.streamlock.net:443/music/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XMvncxX.png" group-title="Kurdistan",Net TV
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
