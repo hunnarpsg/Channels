@@ -15,12 +15,6 @@ https://kurdsat.akamaized.net/hls/stream_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UbHTz5I.png" group-title="Kurdistan",Kurdsat News
 https://kurdsat-news.akamaized.net/hls/kurdsat-news.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MojrqNd.png" group-title="Kurdistan",Kurdmax Sorani
-http://31.14.40.139:1935/liveTrans/myStream/chunklist_w258454534.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/MojrqNd.png" group-title="Kurdistan",Kurdmax Badini
-http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/p2KXLbk.png" group-title="Kurdistan",Kurdmax Show Sorani
 http://31.14.40.139:1935/liveTrans/SHOW1/playlist.m3u8
 
