@@ -31,10 +31,10 @@ https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8
 https://6476e46b58f91.streamlock.net:443/music/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XMvncxX.png" group-title="Kurdistan",Net TV
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/R0uhPwR.png" group-title="Kurdistan",NRT 1 HD
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/53.m3u8
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YAuVPS3.png" group-title="Kurdistan",NRT 2 HD
 http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/54.m3u8
